@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://avgtech674.github.io</id>
+    <title>均分菌的小站</title>
+    <updated>2022-11-06T03:58:15.412Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://avgtech674.github.io"/>
+    <link rel="self" href="https://avgtech674.github.io/atom.xml"/>
+    <subtitle>“躺不平又卷不动”</subtitle>
+    <logo>https://avgtech674.github.io/images/avatar.png</logo>
+    <icon>https://avgtech674.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 均分菌的小站</rights>
+    <entry>
+        <title type="html"><![CDATA[Attempting to migrating to Gitee]]></title>
+        <id>https://avgtech674.github.io/post/attempting-to-migrating-to-gitee/</id>
+        <link href="https://avgtech674.github.io/post/attempting-to-migrating-to-gitee/">
+        </link>
+        <updated>2022-11-06T03:53:37.000Z</updated>
+        <content type="html"><![CDATA[<p>由于 Github 在国内的蜜汁响应速度（主要指主站，Pages服务还行），本站内容可能会逐步迁至Gitee；<br>
+现在在实名了，别急，让我先急。（<br>
+<img src="https://avgtech674.github.io/post-images/1667707060483.png" alt="在审核了" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天下苦Classin久矣！！！]]></title>
+        <id>https://avgtech674.github.io/post/tian-xia-ku-classin-jiu-yi/</id>
+        <link href="https://avgtech674.github.io/post/tian-xia-ku-classin-jiu-yi/">
+        </link>
+        <updated>2022-10-30T03:28:54.000Z</updated>
+        <content type="html"><![CDATA[<p><em>有谁会喜欢上网课啊！！！</em></p>
+<blockquote>
+<p>自Classin某版本开始起，Classin新增了“专注学习模式”，这个设置是机构后台搞的，老师和学生都不能自主取消。</p>
+<p>“专注学习模式”会让教室窗口强制全屏且置顶，后台开啥都显示不出来啊！！！</p>
+</blockquote>
+<h1 id="如何破解专注学习模式">如何破解“专注学习模式”</h1>
+<h2 id="非通用方法">非通用方法</h2>
+<h3 id="windows-881">Windows 8/8.1</h3>
+<ul>
+<li>Windows 8/8.1的Modern应用并不受桌面应用程序的限制（但是Modern应用能干啥捏。。。好像最大的作用是上IE？）</li>
+</ul>
+<h3 id="windows-10">Windows 10</h3>
+<ul>
+<li>按下 Windows+Tab（对于Mac装Windows的用command+Tab）可打开时间线/多桌面，点击最上面一行的加号新建桌面。</li>
+<li>要切的时候可以Win+Tab再调出，或者用Ctrl（Mac-control）+Win（Mac-command）+左右键（← →）快速切换。</li>
+</ul>
+<h3 id="windows-11">Windows 11</h3>
+<ul>
+<li>Windows 10的方法照样有效。</li>
+<li>不过如果宁有办法搞上安卓子系统，可以搞搞Classin的安卓版本。</li>
+</ul>
+<h3 id="linux">Linux</h3>
+<ul>
+<li>Deepin应用商店有Wine封装的Classin，亲测勉强可以使用。</li>
+<li>不过可以装个Anbox（如果宁用Deepin或者UOS，就已经自带UEngine，但是要提前安装好UEngine运行器）运行安卓版本</li>
+</ul>
+<h2 id="通用方法">通用方法</h2>
+<h3 id="1外挂法我lbw从不开挂doge">1.外挂法（我lbw从不开挂doge</h3>
+<ul>
+<li>打开<a href="https://gitee.com/CarlGao4/ClassIn-Mover/releases">这个链接</a></li>
+<li>这是一个用C++写的程序，通过读取并修改Classin窗口属性来让专注学习模式失效。</li>
+</ul>
+<h3 id="2分辨率法">2.分辨率法</h3>
+<ol>
+<li>先退出教室</li>
+<li>在宁的控制面板（Windows 7/8.x）或者电脑设置（Windows 8.x）或者设置（Windows 10/11）中调整屏幕分辨率，调整到1024x768或者刚好让Classin窗口没法正常显示即可。</li>
+<li>重新进入教室，这时候会提示分辨率不足，别管，直接进。</li>
+<li>这时候全屏无效，先最小化Classin（否则会导致Classin发现你在偷袭，又会恢复的）</li>
+<li>把分辨率调回来，这时候就行了！</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[致华育学子的一封慰问信]]></title>
+        <id>https://avgtech674.github.io/post/zhi-hua-yu-xue-zi-de-yi-feng-wei-wen-xin/</id>
+        <link href="https://avgtech674.github.io/post/zhi-hua-yu-xue-zi-de-yi-feng-wei-wen-xin/">
+        </link>
+        <updated>2022-04-20T04:30:00.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>亲爱的华育孩子们：</strong></p>
+<blockquote>
+<p>大家好，见字如面。</p>
+</blockquote>
+<p>今年三月以来，奥密克戎病毒席卷申城，我们一起历经新冠病毒的道道考验，<br>
+我们共同克服疫情期间的种种困难，我们凝心聚力齐心抗疫，翘首期盼早日重返<br>
+这美好的校园。在此，我们向每个坚持学习、执着奋斗的同学和家人致以最衷心<br>
+的慰问，向每位奋战在抗疫一线的医护工作者、警察、社区工作者、志愿者致以<br>
+最崇高的敬意，感谢你们温暖守“沪”，用坚持为我们带来早日解封的希望，你<br>
+们辛苦了！</p>
+<p>志不求易者成，事不避难者进。上海每日新增的确诊病例和无症状感染者的<br>
+数量，提醒着我们，本轮疫情仍然面临着严峻的挑战，我们自我防疫的意识不能<br>
+松懈。学校知道，有些同学居住的社区已经封控甚至足不出户已经一月有余，外<br>
+面的世界很大，我们的活动空间却很小，更需要我们要控制灵魂对自由的渴望，<br>
+用坦然、自律和从容守好自己的一方小书桌，用大气、自信和积极配合市区级的<br>
+防疫要求，我们相信这场战役必定胜利，相信春天不会缺席。</p>
+<p>知难不畏，绝壁可攀。同学们，如果你不慎感染了新冠病毒，请安心修养、<br>
+按时服药，学校、老师和你的家人都牵挂着你，会积极帮助你，期待着你的健康<br>
+回归；如果你身体健康，希望做好个人防护，配合参与核酸和抗原检测，同时也<br>
+关心其他同学和家人们的身心健康，传递温暖与关爱；如果你的家人在疫情防控<br>
+的前线，请帮我们送上感谢和祝福。纵使时空相隔，难抵心手相牵。大家的健康<br>
+与平安是我们最深的牵挂。祝愿各位同学和家人顺遂安康！上海加油！“魔都”<br>
+很快会重新焕发生机勃勃。</p>
+<p>校园的杜鹃花已经开放，期待战“疫”胜利之日，相聚校园，共叙情谊！</p>
+<p><strong>上海市民办华育中学</strong></p>
+<p><strong>2022 年 4 月 19 日</strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://avgtech674.github.io/post/hello-gridea/</id>
+        <link href="https://avgtech674.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
